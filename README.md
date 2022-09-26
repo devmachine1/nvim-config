@@ -5,4 +5,5 @@ NOTE: This config uses packer. Make sure to install it from https://github.com/w
 
 Put all the folders and files in your .config/nvim folder and run:
 
-"nvim +PackerSync"
+```nvim +PackerSync```
+
