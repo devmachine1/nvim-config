@@ -7,6 +7,5 @@ Put all the folders and files in your .config/nvim folder and run:
 
 ```
 nvim +PackerSync
-
 ```
 
