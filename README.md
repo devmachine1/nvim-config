@@ -23,6 +23,8 @@ and then run:
 
 ```
 yarn install
-#if yarn install does not work
+
+if yarn install does not work
+
 npm install
 ```
