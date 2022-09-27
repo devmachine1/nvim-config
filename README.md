@@ -9,4 +9,4 @@ Put all the folders and files in your .config/nvim folder and run:
 nvim +PackerSync
 ```
 
-Now it should work. Open an Issue if you have any.
+Now it should work. Open an Issue if you have any errors.
