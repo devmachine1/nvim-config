@@ -10,3 +10,5 @@ nvim +PackerSync
 ```
 
 Now it should work. Open an Issue if you have any errors.
+
+BTW, dont open errors on smth like "How can i change theme?" etc. To change theme just replace gruvbox in plugins.lua with a theme you want. Please look at the documentation of packer if you wanna edit ANYTHING of this.
