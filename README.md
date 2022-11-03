@@ -1,5 +1,5 @@
 # nvim-config
-My nvim config with the gruvbox, nvim-lspconfig and more. (Edited config of jdh https://github.com/jdah/dotfiles)
+My nvim config with the gruvbox Theme, nvim-lspconfig and more. (Edited config of jdh https://github.com/jdah/dotfiles)
 
 NOTE: This config uses packer. Make sure to install it from https://github.com/wbthomason/packer.nvim.
 
